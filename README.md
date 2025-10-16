@@ -1,3 +1,5 @@
+https://github.com/upperslot/nordboard/blob/main/nordboard.png
+
 How to Run:
 Save as nordboard.py
 Open terminal and run: python nordboard.py
